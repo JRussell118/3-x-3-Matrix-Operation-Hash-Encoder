@@ -1,3 +1,7 @@
+# Jaden Russell
+# 11/11/2022
+# SDEV 300
+
 """This program reads and validates a phone number and zipcode from the user,
 and performs the specified operation with two 3x3 matrices from the user."""
 import numpy as np
