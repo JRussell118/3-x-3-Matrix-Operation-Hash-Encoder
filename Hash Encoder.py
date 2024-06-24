@@ -1,3 +1,7 @@
+# Jaden Russell
+# 11/11/2022
+# SDEV 300
+
 import hashlib
 
 print('Enter a message to encode:')
